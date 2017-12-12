@@ -11,7 +11,7 @@
 - Botones con iconos de redes sociales.
 - Posición de la imagen, área y color de texto.
 
-####Elementos UX
+#### Elementos UX
 - Fotografía al principio de la página que refleja felicidad.
 - Texto sobre la fotografía que suma la idea de transformación a la de felicidad.
 
@@ -46,7 +46,7 @@
 
 
 
-### 4ª parte
+### 4ª parte
 #### Elementos UI
 - Area de texto.
 - Botón “Conoce nuestro talento”.
