@@ -1,4 +1,4 @@
-##Crea un sketch para la herramienta del dashboard de Laboratoria.
+## Crea un sketch para la herramienta del dashboard de Laboratoria.
 
 ![dashboard](images/dashboard/dashboard1.jpg)
 
