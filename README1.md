@@ -2,6 +2,7 @@
 
 ##Web de Laboratoria
 
+
 ### 1ª parte
 #### Elementos UI
 - Menú global con eventos click que dirigen a un link.
@@ -17,6 +18,8 @@
 ![1ª parte](images/ux-ui/1.png)
 
 
+
+
 ### 2ª parte
 #### Elementos UI
 - Area de texto.
@@ -29,6 +32,8 @@
 ![2ª parte](images/ux-ui/2.png)
 
 
+
+
 ### 3ª parte
 #### Elementos UI
 - Posición de la imagen, área y color de texto.
@@ -37,6 +42,8 @@
 - Fotografía y texto con un testimonio de una egresada que busca reflejar la veracidad, hacia las posibles postulantes.
 
 ![3ª parte](images/ux-ui/3.png)
+
+
 
 
 ### 4ª parte
@@ -51,6 +58,8 @@ Contenido de texto dirigido a posibles empleadores.
 ![4ª parte](images/ux-ui/4.png)
 
 
+
+
 ### 5ª parte
 #### Elementos UI
 - Posición de la imagen, área y color de texto.
@@ -59,6 +68,8 @@ Contenido de texto dirigido a posibles empleadores.
 - Fotografía y texto con un testimonio de un CEO que busca reflejar la veracidad, hacia los posibles empleadores.
 
 ![5ª parte](images/ux-ui/5.png)
+
+
 
 
 ### 6ª parte
@@ -74,6 +85,8 @@ Contenido de texto dirigido a posibles empleadores.
 ![6ª parte](images/ux-ui/6.png)
 
 
+
+
 ### 7ª parte
 #### Elementos UI
 - Posición de la imagen, área y color de texto.
@@ -82,6 +95,8 @@ Contenido de texto dirigido a posibles empleadores.
 - Fotografía y texto con un testimonio sobre la transformación del método de trabajo para empresas.
 
 ![7ª parte](images/ux-ui/7.png)
+
+
 
 
 ### 8ª parte
@@ -94,6 +109,8 @@ Contenido de texto dirigido a posibles empleadores.
 ![8ª parte](images/ux-ui/8.png)
 
 
+
+
 ### 9ª parte
 #### Elementos UI
 - Posición de la imagen, área y color de texto.
@@ -102,6 +119,8 @@ Contenido de texto dirigido a posibles empleadores.
 - Frase de Barack Obama que ratifica la veracidad de los resultados, contextualiza con fotografía con innovadores y líderes internacionales.
 
 ![9ª parte](images/ux-ui/9.png)
+
+
 
 
 ### 10ª parte
@@ -115,6 +134,8 @@ Contenido de texto dirigido a posibles empleadores.
 ![10ª parte](images/ux-ui/10.png)
 
 
+
+
 ### 11ª parte
 #### Elementos UI
 - Color de tipografia
@@ -124,6 +145,8 @@ Contenido de texto dirigido a posibles empleadores.
 - Imágenes de iconos de los aliados, reconocimientos y presencia en medios para generar confianza.
 
 ![11ª parte](images/ux-ui/11.png)
+
+
 
 
 ### 12ª parte
@@ -137,6 +160,8 @@ Contenido de texto dirigido a posibles empleadores.
 -Enlaces de blog especialmente la fotografía de Mariana Costa en la que se muestra en un contexto familiar, que genera empatía.
 
 ![12ª parte](images/ux-ui/12.png)
+
+
 
 
 ### 13ª parte
