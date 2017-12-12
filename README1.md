@@ -1,6 +1,6 @@
 # Elige una web de tu preferencia y explica qué partes conforman el UX y qué partes el UI.
 
-##Web de Laboratoria
+## Web de Laboratoria
 
 
 ### 1ª parte
